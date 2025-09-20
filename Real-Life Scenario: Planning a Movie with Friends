@@ -1,0 +1,63 @@
+Real-Life Scenario: Planning a Movie with Friends
+
+1. Plan:
+Me and my friends decide we want to watch a movie together. We all discuss the type of
+movie we'd prefer, such as action, comedy, or drama.
+➢ Everyone gives their preferences for the movie genre, showtime, and location.
+2. Prepare:
+I check which movies are currently available in local theatres. Then, I also look at showtimes
+that suit everyone’s schedule. I might also look at the prices and availability of tickets.
+➢ Gather data about movie options, showtimes, ticket prices, and availability.
+3. Process:
+Once the list of available movies and showtimes is gathered, I filter the options based on
+everyone’s preferences. This includes checking reviews, and ratings, and seeing whether the
+movie has good seats available for the group.
+➢ Narrow down the list of options, check movie ratings, and compare them with what
+the group wants.
+4. Analyse:
+I’ll analyse which movie aligns best with everyone’s preferences while also fitting the
+schedule and budget. I might also consider factors like how crowded the cinema might be at
+different times.
+➢ Evaluate which movie is the best fit, considering factors like price, schedule, and
+group preferences.
+5. Share:
+Once I’ve selected the movie and showtime, I’ll share the decision with my friends through a
+group chat or a call, getting everyone's final confirmation.
+➢ Communicate the final decision with the group.
+6. Act:
+Finally, I’ll book the tickets and go to the movie with my friends. I may also decide to grab
+snacks or drinks based on what's available at the cinema.
+➢ Take action by booking the tickets and enjoying the movie!
+Linking this real-life scenario with the Data Analytics Process:
+1. Plan:
+In the data analytics world, this step is about defining the problem or goal. In this case, the
+goal is to select a movie that fits everyone’s preferences, schedules, and budget.
+➢ Data Analytics Approach: Identify the objective, which is choosing a suitable movie
+and time for all friends.
+2. Prepare:
+Here, I gather all the necessary information, like which movies are playing, available
+showtimes, prices, and group preferences. I might also consider reviews or ratings.
+➢ Data Analytics Approach: Collect data, including movies, showtimes, and ticket
+prices, to ensure informed decision-making.
+3. Process:
+I’ll filter and clean the data, eliminating movies that don't match my group's preferences or
+schedules. This could include filtering out movies with poor reviews or inconvenient
+showtimes.
+➢ Data Analytics Approach: Clean and process the data, such as filtering movies that
+don’t meet criteria (bad reviews, mismatched schedules).
+4. Analyse:
+This step involves evaluating the options. I analyse the remaining data to see which movie
+fits the group’s preferences, schedule, and budget. It’s a balancing act, like analysing a
+dataset to find the most optimal outcome.
+➢ Data Analytics Approach: Analyse the data, checking which movies meet all the
+requirements, and finding the optimal choice based on preferences and constraints.
+5. Share:
+Once I’ve analysed the options, I communicate my findings to the group. This is when I share
+the data insights with stakeholders through a report.
+➢ Data Analytics Approach: Share insights with the group to get confirmation on the
+decision.
+6. Act:
+After receiving confirmation, I book the tickets and go watch the movie. In data analytics,
+this would be the implementation phase where decisions are acted upon.
+➢ Data Analytics Approach: Implement the final decision by booking the tickets (acting
+on insights)
